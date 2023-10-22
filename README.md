@@ -7,6 +7,8 @@ This project focuses on the classification of lung infections in medical images.
 ## Dataset
 
 - The dataset used in this project comprises medical images categorized into "healthy," "type 1 disease," and "type 2 disease" classes.
+
+
 ![](Photos/Unknown-8.png)
 Fig: Type 1 Disease
 
@@ -52,7 +54,6 @@ Fig: DenseNet121 Accuracy and Loss
 
 The project structure is organized as follows:
 
-- `data/`: Contains the preprocessed and augmented dataset for training and testing.
 - `src/`: Source code, including data preparation, model building, and evaluation scripts.
 - `README.md`: This file.
 
