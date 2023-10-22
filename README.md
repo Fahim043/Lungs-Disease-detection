@@ -54,7 +54,7 @@ Fig: DenseNet121 Accuracy and Loss
 
 The project structure is organized as follows:
 
-- `src/`: Source code, including data preparation, model building, and evaluation scripts.
+- `Lung Disease detection using 3 different models .ipynb`: Jupyter notebooks with code for data preprocessing, model training, and evaluation.
 - `README.md`: This file.
 
 ## Usage
